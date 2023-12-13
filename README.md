@@ -4,11 +4,11 @@
 <h1 align="center">ChatGPT-BotMint</h1> 
 
 
-[BotMint](https://mint-jiraphinya.vercel.app)
+
 
 ไทย / ?
 
-One-Click to get well-designed cross-platform ChatGPT web UI.
+
 
 ปรับใช้แอปพลิเคชัน ChatGPT ส่วนตัวข้ามแพลตฟอร์มได้ในคลิกเดียว
 
@@ -17,13 +17,13 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgpt.nextweb.fun/)  [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)  [Buy Me a Coffee](https://www.buymeacoffee.com/ai.jiraphinya) [เวอร์ชันเว็บ](https://mint-jiraphinya.vercel.app) [นักพัฒนา](https://github.com/ai-jiraphinya)
+[Web App](https://chatgpt.nextweb.fun/)  [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)  [Buy Me a Coffee](https://www.buymeacoffee.com/ai.jiraphinya) [เวอร์ชันเว็บ](https://mint-jiraphinya.vercel.app) [นักพัฒนา](jiraphinya.coffeecup.com)
 
 
 
 
 
-[web-url]: https://chatgpt.nextweb.fun
+[web-url]: https://mint-jiraphinya.vercel.app
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
