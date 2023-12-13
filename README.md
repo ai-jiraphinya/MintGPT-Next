@@ -30,8 +30,10 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-![cover](./docs/images/cover2.png)
+![cover](./docs/images/a1.png)
+<h1 align="center">ปรับใช้ที่ vercel เป็นบริการฟรี สำหรับการใช้งานส่วนต้ว มีธีม มืด/สว่าง</h1>
 
+![cover](./docs/images/a2.png)
 </div>
 
 ## Features
