@@ -3,7 +3,7 @@
 
 <h1 align="center">ChatGPT Next Web</h1>
 
-English / 
+ไทย / ?
 
 One-Click to get well-designed cross-platform ChatGPT web UI.
 
@@ -16,7 +16,8 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 [Web App](https://chatgpt.nextweb.fun/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/mortiest_ricky) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
 
-[网页版](https://chatgpt.nextweb.fun/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+[เวอร์ชันเว็บ](https://chatgpt.nextweb.fun/) / [ลูกค้าเผยแพร่](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / 
+[ข้อเสนอแนะ](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [นักพัฒนา](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
 
 [web-url]: https://chatgpt.nextweb.fun
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
