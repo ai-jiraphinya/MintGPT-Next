@@ -289,7 +289,7 @@ If your proxy needs password, use:
 
 ## Donation
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/ai-jiraphinya)
+
 
 
 
