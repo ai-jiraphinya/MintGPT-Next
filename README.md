@@ -3,11 +3,11 @@
 
 <h1 align="center">ChatGPT Next Web</h1>
 
-English / [简体中文](./README_CN.md)
+English / 
 
 One-Click to get well-designed cross-platform ChatGPT web UI.
 
-一键免费部署你的跨平台私人 ChatGPT 应用。
+ปรับใช้แอปพลิเคชัน ChatGPT ส่วนตัวข้ามแพลตฟอร์มได้ในคลิกเดียว
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
