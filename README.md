@@ -17,7 +17,7 @@
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgpt.nextweb.fun/)  [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)  [Buy Me a Coffee](https://www.buymeacoffee.com/ai.jiraphinya) [เวอร์ชันเว็บ](https://mint-jiraphinya.vercel.app) [นักพัฒนา](jiraphinya.coffeecup.com)
+[Web App](https://chatgpt.nextweb.fun/)  [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)  [Buy Me a Coffee](https://www.buymeacoffee.com/ai.jiraphinya) [เวอร์ชันเว็บ](https://mint-jiraphinya.vercel.app) [นักพัฒนา](https://jiraphinya.coffeecup.com)
 
 
 
