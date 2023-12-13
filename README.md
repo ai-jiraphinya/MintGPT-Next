@@ -56,14 +56,16 @@
 
 ## Roadmap
 
+- 🚀 
+- 🚀
 
+![Roadmap](./docs/images/.png)
 
 ## What's New
 
-- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
-- 🚀 v2.7 let's share conversations as image, or share to ShareGPT!
-- 🚀 v2.8 now we have a client that runs across all platforms!
-- 🚀 v2.9.11 you can use azure endpoint now.
+- 🚀  ตอนนี้คุณสามารถสร้างเทมเพลตพร้อมท์ เปลี่ยนความคิดของคุณให้กลายเป็นจริงได้! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
+- 🚀 
+- 🚀 
 
 
 [English > FAQ](./docs/faq-en.md)
