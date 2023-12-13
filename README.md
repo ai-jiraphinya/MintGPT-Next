@@ -32,7 +32,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+
 
 ![cover](./docs/images/a1.png)
 <h1 align="center">ปรับใช้ที่ vercel เป็นบริการฟรี สำหรับการใช้งานส่วนต้ว มีธีม มืด/สว่าง</h1>
@@ -56,13 +56,7 @@
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
-- [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
-- [x] Desktop App with tauri
-- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+
 
 ## What's New
 
@@ -80,7 +74,7 @@
 
 หากคุณปรับใช้โปรเจ็กต์ของคุณเองด้วยการคลิกเพียงครั้งเดียวโดยทำตามขั้นตอนข้างต้น คุณอาจประสบปัญหา "การอัปเดตที่พร้อมใช้งาน" ปรากฏขึ้นอย่างต่อเนื่อง เนื่องจาก Vercel จะสร้างโปรเจ็กต์ใหม่ให้คุณตามค่าเริ่มต้น แทนที่จะแยกโปรเจ็กต์นี้ ส่งผลให้ไม่สามารถตรวจจับการอัปเดตได้อย่างถูกต้อง
 
-We recommend that you follow the steps below to re-deploy:
+เราขอแนะนำให้คุณทำตามขั้นตอนด้านล่างเพื่อปรับใช้อีกครั้ง:
 
 - ลบที่เก็บข้อมูลดั้งเดิม
 - ใช้ปุ่มส้อมที่มุมขวาบนของหน้าเพื่อแยกโปรเจ็กต์นี้
@@ -105,7 +99,7 @@ After adding or modifying this environment variable, please redeploy the project
 
 ## Environment Variables
 
-
+หลังจากเพิ่มหรือแก้ไขตัวแปรสภาพแวดล้อมนี้แล้ว โปรดปรับใช้โปรเจ็กต์อีกครั้งเพื่อให้การเปลี่ยนแปลงมีผล
 
 ### `CODE` (optional)
 
@@ -184,13 +178,13 @@ NodeJS >= 18, Docker >= 20
 
 ก่อนที่จะเริ่มการพัฒนา คุณต้องสร้างไฟล์ `.env.local` ใหม่ที่รูทโปรเจ็กต์ และวางคีย์ API ของคุณลงไป:
 
-Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
+ก่อนที่จะเริ่มการพัฒนา คุณต้องสร้างไฟล์ `.env.local` ใหม่ที่รูทโปรเจ็กต์ และวางคีย์ API ของคุณลงไป:
 
 ```
 OPENAI_API_KEY=<your api key here>
 
 # if you are not able to access openai service, use this BASE_URL
-BASE_URL=https://chatgpt1.nextweb.fun/api/proxy
+BASE_URL=mint-jiraphinya.vercel.app/api/proxy
 ```
 
 ### Local Development
@@ -206,16 +200,7 @@ yarn dev
 ## Deployment
 
 
-### Docker (Recommended)
 
-```shell
-docker pull yidadaa/chatgpt-next-web
-
-docker run -d -p 3000:3000 \
-   -e OPENAI_API_KEY=sk-xxxx \
-   -e CODE=your-password \
-   yidadaa/chatgpt-next-web
-```
 
 You can start service behind a proxy:
 
@@ -224,7 +209,7 @@ docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY=sk-xxxx \
    -e CODE=your-password \
    -e PROXY_URL=http://localhost:7890 \
-   yidadaa/chatgpt-next-web
+   ai-jiraphinya/ChatGPT-Next-Web-Mint
 ```
 
 If your proxy needs password, use:
@@ -238,22 +223,13 @@ If your proxy needs password, use:
 
 > Please go to the [docs][./docs] directory for more documentation instructions.
 
-- [Deploy with cloudflare (Deprecated)](./docs/cloudflare-pages-en.md)
+
 - [Frequent Ask Questions](./docs/faq-en.md)
 - [How to add a new translation](./docs/translation.md)
 - [How to use Vercel (No English)](./docs/vercel-cn.md)
-- [User Manual (Only Chinese, WIP)](./docs/user-manual-cn.md)
-
-## Screenshots
-
-![Settings](./docs/images/settings.png)
-
-![More](./docs/images/more.png)
 
 
-## Translation
 
-หากต้องการเพิ่มคำแปลใหม่ โปรดอ่านข้อความนี้ [document](./docs/translation.md).
 
 ## Donation
 
