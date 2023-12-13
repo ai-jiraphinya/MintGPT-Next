@@ -36,17 +36,17 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 ## Features
 
-- **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
-- Privacy first, all data stored locally in the browser
-- Markdown support: LaTex, mermaid, code highlight, etc.
-- Responsive design, dark mode and PWA
-- Fast first screen loading speed (~100kb), support streaming response
-- New in v2: create, share and debug your chat tools with prompt templates (mask)
-- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- Automatically compresses chat history to support long conversations while also saving your tokens
-- I18n: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어, Indonesia
+- **ปรับใช้ฟรีเพียงคลิกเดียว** บน Vercel ภายในเวลาไม่ถึง 1 นาที
+- ไคลเอนต์ขนาดกะทัดรัด (~ 5MB) บน Linux/Windows/MacOS [ดาวน์โหลดทันที](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
+- เข้ากันได้อย่างสมบูรณ์กับ llms ที่ปรับใช้ด้วยตนเอง แนะนำให้ใช้กับ [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) หรือ [LocalAI](https://github.com/go-skynet/ LocalAI)
+- ความเป็นส่วนตัวมาก่อน ข้อมูลทั้งหมดจัดเก็บไว้ในเบราว์เซอร์
+- รองรับ Markdown: LaTex, นางเงือก, ไฮไลต์โค้ด ฯลฯ
+- การออกแบบที่ตอบสนอง โหมดมืด และ PWA
+- ความเร็วในการโหลดหน้าจอแรกที่รวดเร็ว (~ 100kb) รองรับการตอบสนองแบบสตรีมมิ่ง
+- ใหม่ในเวอร์ชัน 2: สร้าง แบ่งปัน และแก้ไขเครื่องมือแชทของคุณด้วยเทมเพลตพร้อมท์ (มาสก์)
+- ข้อความแจ้งที่ยอดเยี่ยมขับเคลื่อนโดย [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) และ [awesome-chatgpt-prompts](https://github.com/ f/สุดยอด-chatgpt-พร้อมท์)
+- บีบอัดประวัติการแชทโดยอัตโนมัติเพื่อรองรับการสนทนาที่ยาวนานพร้อมทั้งบันทึกโทเค็นของคุณ
+- I18n: อังกฤษ, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Viết, Русский, čeština, เกาหลี, อินโดนีเซีย
 
 ## Roadmap
 
