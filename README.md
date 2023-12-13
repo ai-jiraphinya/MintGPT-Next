@@ -17,10 +17,11 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgpt.nextweb.fun/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Buy Me a Coffee](https://www.buymeacoffee.com/ai.jiraphinya)
+[Web App](https://chatgpt.nextweb.fun/)  [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)  [Buy Me a Coffee](https://www.buymeacoffee.com/ai.jiraphinya) [เวอร์ชันเว็บ](https://mint-jiraphinya.vercel.app) [นักพัฒนา](https://github.com/ai-jiraphinya)
 
-[เวอร์ชันเว็บ](https://chatgpt.nextweb.fun/) / [ลูกค้าเผยแพร่](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / 
-[ข้อเสนอแนะ](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [นักพัฒนา](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+
+
+
 
 [web-url]: https://chatgpt.nextweb.fun
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
