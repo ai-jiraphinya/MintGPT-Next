@@ -44,7 +44,7 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 - การออกแบบที่ตอบสนอง โหมดมืด และ PWA
 - ความเร็วในการโหลดหน้าจอแรกที่รวดเร็ว (~ 100kb) รองรับการตอบสนองแบบสตรีมมิ่ง
 - ใหม่ในเวอร์ชัน 2: สร้าง แบ่งปัน และแก้ไขเครื่องมือแชทของคุณด้วยเทมเพลตพร้อมท์ (มาสก์)
-- ข้อความแจ้งที่ยอดเยี่ยมขับเคลื่อนโดย [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) และ [awesome-chatgpt-prompts](https://github.com/ f/สุดยอด-chatgpt-พร้อมท์)
+- ข้อความแจ้งที่ยอดเยี่ยมขับเคลื่อนโดย [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 
 - บีบอัดประวัติการแชทโดยอัตโนมัติเพื่อรองรับการสนทนาที่ยาวนานพร้อมทั้งบันทึกโทเค็นของคุณ
 - I18n: อังกฤษ, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Viết, Русский, čeština, เกาหลี, อินโดนีเซีย
 
