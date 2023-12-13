@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
-<h1 align="center">ChatGPT-BotMint</h1> 
+<h1 align="center">MintGPT-Next</h1> 
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-[web-url]: https://mint-jiraphinya.vercel.app
+[web-url]: https://jiraphinya.vercel.app
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
@@ -240,7 +240,7 @@ NodeJS >= 18, Docker >= 20
 OPENAI_API_KEY=<your api key here>
 
 # if you are not able to access openai service, use this BASE_URL
-BASE_URL=mint-jiraphinya.vercel.app/api/proxy
+BASE_URL=
 ```
 
 ### Local Development
