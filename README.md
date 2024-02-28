@@ -10,7 +10,7 @@
 
 
 
-ปรับใช้แอปพลิเคชัน ChatGPT ส่วนตัวข้ามแพลตฟอร์มได้ในคลิกเดียว
+เนื่องจากตอนนี้มี GPT-Free มากมาย'ที่เก็บนี้จึงเลิกผลิต.
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
