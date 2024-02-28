@@ -12,7 +12,7 @@
 
 
 
-เนื่องจากตอนนี้มี GPT-Free มากมาย'ที่เก็บนี้จึงเลิกผลิต.
+เนื่องจากตอนนี้มี GPT-Free มากมาย'ที่เก็บนี้จึงเลิกผลิต.เผื่อต้องการสร้างโปรดดูที่..Active deployments!
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
