@@ -1,5 +1,7 @@
-<div align="center">
-<img src="./docs/images/icon.svg" alt="icon"/>
+<p align="center">
+  <a href="https://mtify.hashnode.dev">
+    <img src="https://res.cloudinary.com/dcwjok3nu/image/upload/t_Banner 16:9/v1709151026/Mediamodifier-Design_sa7wr6.svg" width="124" height="124"
+  </a>
 
 <h1 align="center">MintGPT-Next</h1> 
 
